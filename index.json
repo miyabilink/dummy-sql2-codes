@@ -10,6 +10,7 @@
         "sourceFiles": [
           "List01_01.sql"
         ],
+        "setupFile": "pre_list0101.sql",
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -21,6 +22,7 @@
         "sourceFiles": [
           "List01_02.sql"
         ],
+        "setupFile": "pre_list0102.sql",
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -32,6 +34,7 @@
         "sourceFiles": [
           "List01_03.sql"
         ],
+        "setupFile": "pre_list0103.sql",
         "isCompileError": false,
         "isRuntimeError": null,
         "loadMessage": null
@@ -43,6 +46,7 @@
         "sourceFiles": [
           "List01_04.sql"
         ],
+        "setupFile": "pre_list0104.sql",
         "isCompileError": false,
         "isRuntimeError": null,
         "loadMessage": null
@@ -54,6 +58,7 @@
         "sourceFiles": [
           "List01_05.sql"
         ],
+        "setupFile": "pre_list0105.sql",
         "isCompileError": false,
         "isRuntimeError": null,
         "loadMessage": null
@@ -65,6 +70,7 @@
         "sourceFiles": [
           "List01_06.sql"
         ],
+        "setupFile": "pre_list0106.sql",
         "isCompileError": false,
         "isRuntimeError": null,
         "loadMessage": null
@@ -76,6 +82,7 @@
         "sourceFiles": [
           "Q01_03_1.sql"
         ],
+        "setupFile": "pre_quizans01031.sql",
         "isCompileError": false,
         "isRuntimeError": null,
         "loadMessage": null
@@ -87,6 +94,7 @@
         "sourceFiles": [
           "Q01_03_2.sql"
         ],
+        "setupFile": "pre_quizans01032.sql",
         "isCompileError": false,
         "isRuntimeError": null,
         "loadMessage": null
@@ -98,6 +106,7 @@
         "sourceFiles": [
           "Q01_03_3.sql"
         ],
+        "setupFile": "pre_quizans01033.sql",
         "isCompileError": false,
         "isRuntimeError": null,
         "loadMessage": null
@@ -115,6 +124,7 @@
         "sourceFiles": [
           "List02_01.sql"
         ],
+        "setupFile": "pre_list0201.sql",
         "isCompileError": false,
         "isRuntimeError": null,
         "loadMessage": null
@@ -126,6 +136,7 @@
         "sourceFiles": [
           "List02_02.sql"
         ],
+        "setupFile": "pre_list0202.sql",
         "isCompileError": false,
         "isRuntimeError": null,
         "loadMessage": null
@@ -137,6 +148,7 @@
         "sourceFiles": [
           "List02_03.sql"
         ],
+        "setupFile": "pre_list0203.sql",
         "isCompileError": false,
         "isRuntimeError": null,
         "loadMessage": null
@@ -148,6 +160,7 @@
         "sourceFiles": [
           "List02_04.sql"
         ],
+        "setupFile": "pre_list0204.sql",
         "isCompileError": false,
         "isRuntimeError": null,
         "loadMessage": null
@@ -159,6 +172,7 @@
         "sourceFiles": [
           "List02_05.sql"
         ],
+        "setupFile": "pre_list0205.sql",
         "isCompileError": false,
         "isRuntimeError": null,
         "loadMessage": null
@@ -170,6 +184,7 @@
         "sourceFiles": [
           "List02_06.sql"
         ],
+        "setupFile": "pre_list0206.sql",
         "isCompileError": false,
         "isRuntimeError": null,
         "loadMessage": null
@@ -181,6 +196,7 @@
         "sourceFiles": [
           "List02_07.sql"
         ],
+        "setupFile": "pre_list0207.sql",
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -192,6 +208,7 @@
         "sourceFiles": [
           "List02_08.sql"
         ],
+        "setupFile": "pre_list0208.sql",
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -203,6 +220,7 @@
         "sourceFiles": [
           "List02_09.sql"
         ],
+        "setupFile": "pre_list0209.sql",
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
@@ -214,6 +232,7 @@
         "sourceFiles": [
           "List02_10.sql"
         ],
+        "setupFile": "pre_list0210.sql",
         "isCompileError": false,
         "isRuntimeError": null,
         "loadMessage": null
@@ -225,6 +244,7 @@
         "sourceFiles": [
           "List02_11.sql"
         ],
+        "setupFile": "pre_list0211.sql",
         "isCompileError": false,
         "isRuntimeError": null,
         "loadMessage": null
@@ -236,6 +256,7 @@
         "sourceFiles": [
           "List02_12.sql"
         ],
+        "setupFile": "pre_list0212.sql",
         "isCompileError": false,
         "isRuntimeError": null,
         "loadMessage": null
@@ -247,6 +268,7 @@
         "sourceFiles": [
           "Q02_03_1.sql"
         ],
+        "setupFile": "pre_quizans02031.sql",
         "isCompileError": false,
         "isRuntimeError": null,
         "loadMessage": null
@@ -258,6 +280,7 @@
         "sourceFiles": [
           "Q02_03_2.sql"
         ],
+        "setupFile": "pre_quizans02032.sql",
         "isCompileError": false,
         "isRuntimeError": null,
         "loadMessage": null
@@ -269,6 +292,7 @@
         "sourceFiles": [
           "Q02_03_3.sql"
         ],
+        "setupFile": "pre_quizans02033.sql",
         "isCompileError": false,
         "isRuntimeError": null,
         "loadMessage": null
@@ -280,6 +304,7 @@
         "sourceFiles": [
           "Q02_04_1.sql"
         ],
+        "setupFile": "pre_quizans02041.sql",
         "isCompileError": false,
         "isRuntimeError": null,
         "loadMessage": null
@@ -291,6 +316,7 @@
         "sourceFiles": [
           "Q02_04_2.sql"
         ],
+        "setupFile": "pre_quizans02042.sql",
         "isCompileError": false,
         "isRuntimeError": null,
         "loadMessage": null
@@ -302,6 +328,7 @@
         "sourceFiles": [
           "Q02_04_3.sql"
         ],
+        "setupFile": "pre_quizans02043.sql",
         "isCompileError": false,
         "isRuntimeError": null,
         "loadMessage": null
@@ -313,6 +340,7 @@
         "sourceFiles": [
           "Q02_05_1.sql"
         ],
+        "setupFile": "pre_quizans02051.sql",
         "isCompileError": false,
         "isRuntimeError": null,
         "loadMessage": null
@@ -324,6 +352,7 @@
         "sourceFiles": [
           "Q02_05_3.sql"
         ],
+        "setupFile": "pre_quizans02053.sql",
         "isCompileError": false,
         "isRuntimeError": null,
         "loadMessage": null
@@ -335,6 +364,7 @@
         "sourceFiles": [
           "Q02_06.sql"
         ],
+        "setupFile": "pre_quizans0206.sql",
         "isCompileError": false,
         "isRuntimeError": null,
         "loadMessage": null
