@@ -1,0 +1,344 @@
+[
+  {
+    "id": "chap01",
+    "label": "第1章 はじめてのSQL",
+    "children": [
+      {
+        "id": "ssql2-List01_01",
+        "label_header": "リスト1-1",
+        "label": "はじめての検索",
+        "sourceFiles": [
+          "List01_01.sql"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "ssql2-List01_02",
+        "label_header": "リスト1-2",
+        "label": "すべての列を検索する",
+        "sourceFiles": [
+          "List01_02.sql"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "ssql2-List01_03",
+        "label_header": "リスト1-3",
+        "label": "すべての列を取得する（簡略記法）",
+        "sourceFiles": [
+          "List01_03.sql"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": null,
+        "loadMessage": null
+      },
+      {
+        "id": "ssql2-List01_04",
+        "label_header": "リスト1-4",
+        "label": "出金額が3,000円を超える行だけを取得する",
+        "sourceFiles": [
+          "List01_04.sql"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": null,
+        "loadMessage": null
+      },
+      {
+        "id": "ssql2-List01_05",
+        "label_header": "リスト1-5",
+        "label": "3月の家賃の支払いを行として挿入する",
+        "sourceFiles": [
+          "List01_05.sql"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": null,
+        "loadMessage": null
+      },
+      {
+        "id": "ssql2-List01_06",
+        "label_header": "リスト1-6",
+        "label": "「2018年2月25日の出金額」を90,000円に更新する",
+        "sourceFiles": [
+          "List01_06.sql"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": null,
+        "loadMessage": null
+      },
+      {
+        "id": "ssql2-Q01_03_1",
+        "label_header": "",
+        "label": "問題1-3-1",
+        "sourceFiles": [
+          "Q01_03_1.sql"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": null,
+        "loadMessage": null
+      },
+      {
+        "id": "ssql2-Q01_03_2",
+        "label_header": "",
+        "label": "問題1-3-2",
+        "sourceFiles": [
+          "Q01_03_2.sql"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": null,
+        "loadMessage": null
+      },
+      {
+        "id": "ssql2-Q01_03_3",
+        "label_header": "",
+        "label": "問題1-3-3",
+        "sourceFiles": [
+          "Q01_03_3.sql"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": null,
+        "loadMessage": null
+      }
+    ]
+  },
+  {
+    "id": "chap02",
+    "label": "第2章 基本文法と4大命令",
+    "children": [
+      {
+        "id": "ssql2-List02_01",
+        "label_header": "リスト2-1",
+        "label": "1行で記述されたSELECT文",
+        "sourceFiles": [
+          "List02_01.sql"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": null,
+        "loadMessage": null
+      },
+      {
+        "id": "ssql2-List02_02",
+        "label_header": "リスト2-2",
+        "label": "整形されたSELECT文",
+        "sourceFiles": [
+          "List02_02.sql"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": null,
+        "loadMessage": null
+      },
+      {
+        "id": "ssql2-List02_03",
+        "label_header": "リスト2-3",
+        "label": "コメントを記述したSQL",
+        "sourceFiles": [
+          "List02_03.sql"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": null,
+        "loadMessage": null
+      },
+      {
+        "id": "ssql2-List02_04",
+        "label_header": "リスト2-4",
+        "label": "３ヶ月分の家賃支払を行として挿入する（リスト1−5の再掲",
+        "sourceFiles": [
+          "List02_04.sql"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": null,
+        "loadMessage": null
+      },
+      {
+        "id": "ssql2-List02_05",
+        "label_header": "リスト2-5",
+        "label": "入金額と出金額を文字列情報として指定してしまった例",
+        "sourceFiles": [
+          "List02_05.sql"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": null,
+        "loadMessage": null
+      },
+      {
+        "id": "ssql2-List02_06",
+        "label_header": "リスト2-6",
+        "label": "複数の列を取得するSELECT文",
+        "sourceFiles": [
+          "List02_06.sql"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": null,
+        "loadMessage": null
+      },
+      {
+        "id": "ssql2-List02_07",
+        "label_header": "リスト2-7",
+        "label": "ASを用いて別名を定義したSELECT文",
+        "sourceFiles": [
+          "List02_07.sql"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "ssql2-List02_08",
+        "label_header": "リスト2-8",
+        "label": "1つの列を更新するUPDATE文",
+        "sourceFiles": [
+          "List02_08.sql"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "ssql2-List02_09",
+        "label_header": "リスト2-9",
+        "label": "条件付きのUPDATE文",
+        "sourceFiles": [
+          "List02_09.sql"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "ssql2-List02_10",
+        "label_header": "リスト2-10",
+        "label": "DELETE文の例",
+        "sourceFiles": [
+          "List02_10.sql"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": null,
+        "loadMessage": null
+      },
+      {
+        "id": "ssql2-List02_11",
+        "label_header": "リスト2-11",
+        "label": "複数の列に追加するINSERT文",
+        "sourceFiles": [
+          "List02_11.sql"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": null,
+        "loadMessage": null
+      },
+      {
+        "id": "ssql2-List02_12",
+        "label_header": "リスト2-12",
+        "label": "全列に追加するINSERT文",
+        "sourceFiles": [
+          "List02_12.sql"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": null,
+        "loadMessage": null
+      },
+      {
+        "id": "ssql2-Q02_03_1",
+        "label_header": "",
+        "label": "問題2-3-1",
+        "sourceFiles": [
+          "Q02_03_1.sql"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": null,
+        "loadMessage": null
+      },
+      {
+        "id": "ssql2-Q02_03_2",
+        "label_header": "",
+        "label": "問題2-3-2",
+        "sourceFiles": [
+          "Q02_03_2.sql"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": null,
+        "loadMessage": null
+      },
+      {
+        "id": "ssql2-Q02_03_3",
+        "label_header": "",
+        "label": "問題2-3-3",
+        "sourceFiles": [
+          "Q02_03_3.sql"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": null,
+        "loadMessage": null
+      },
+      {
+        "id": "ssql2-Q02_04_1",
+        "label_header": "",
+        "label": "問題2-4-1",
+        "sourceFiles": [
+          "Q02_04_1.sql"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": null,
+        "loadMessage": null
+      },
+      {
+        "id": "ssql2-Q02_04_2",
+        "label_header": "",
+        "label": "問題2-4-2",
+        "sourceFiles": [
+          "Q02_04_2.sql"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": null,
+        "loadMessage": null
+      },
+      {
+        "id": "ssql2-Q02_04_3",
+        "label_header": "",
+        "label": "問題2-4-3",
+        "sourceFiles": [
+          "Q02_04_3.sql"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": null,
+        "loadMessage": null
+      },
+      {
+        "id": "ssql2-Q02_05_1",
+        "label_header": "",
+        "label": "問題2-5-1",
+        "sourceFiles": [
+          "Q02_05_1.sql"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": null,
+        "loadMessage": null
+      },
+      {
+        "id": "ssql2-Q02_05_3",
+        "label_header": "",
+        "label": "問題2-5-3",
+        "sourceFiles": [
+          "Q02_05_3.sql"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": null,
+        "loadMessage": null
+      },
+      {
+        "id": "ssql2-Q02_06",
+        "label_header": "",
+        "label": "問題2-6",
+        "sourceFiles": [
+          "Q02_06.sql"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": null,
+        "loadMessage": null
+      }
+    ]
+  }
+]
