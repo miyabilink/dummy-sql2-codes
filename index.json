@@ -76,6 +76,18 @@
         "loadMessage": null
       },
       {
+        "id": "ssql2-List01_01",
+        "label_header": "エラー検証用",
+        "label": "[削除予定] コンパイル、実行時エラー表示",
+        "sourceFiles": [
+          "List01_01.sql"
+        ],
+        "setupFile": "pre_list0101.sql",
+        "isCompileError": true,
+        "isRuntimeError": true,
+        "loadMessage": "コンパイル、実行でもエラー起こします。ご注意ください。"
+      },
+      {
         "id": "ssql2-Q01_03_1",
         "label_header": "",
         "label": "問題1-3-1",
@@ -110,19 +122,7 @@
         "isCompileError": false,
         "isRuntimeError": null,
         "loadMessage": null
-      },
-      {
-        "id": "ssql2-List01_01",
-        "label_header": "エラー検証用",
-        "label": "[削除予定] コンパイル、実行時エラー表示",
-        "sourceFiles": [
-          "List01_01.sql"
-        ],
-        "setupFile": "pre_list0101.sql",
-        "isCompileError": true,
-        "isRuntimeError": true,
-        "loadMessage": "コンパイル、実行でもエラー起こします。ご注意ください。"
-      },
+      }
     ]
   },
   {
