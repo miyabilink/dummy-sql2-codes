@@ -11,8 +11,8 @@
           "List01_01.sql"
         ],
         "setupFile": "pre_list0101.sql",
-        "isCompileError": false,
-        "isRuntimeError": false,
+        "isCompileError": true,
+        "isRuntimeError": true,
         "loadMessage": null
       },
       {
