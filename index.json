@@ -13,7 +13,7 @@
         "setupFile": "pre_list0101.sql",
         "isCompileError": true,
         "isRuntimeError": true,
-        "loadMessage": null
+        "loadMessage": "実行時エラー"
       },
       {
         "id": "ssql2-List01_02",
