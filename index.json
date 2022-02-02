@@ -11,9 +11,9 @@
           "List01_01.sql"
         ],
         "setupFile": "pre_list0101.sql",
-        "isCompileError": true,
-        "isRuntimeError": true,
-        "loadMessage": "実行時エラー"
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
       },
       {
         "id": "ssql2-List01_02",
