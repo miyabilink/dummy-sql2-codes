@@ -92,7 +92,7 @@
         "label_header": "",
         "label": "問題1-3-1",
         "sourceFiles": [
-          "Q01_03_1.sql"
+          "quizans01031.sql"
         ],
         "setupFile": "pre_quizans01031.sql",
         "isCompileError": false,
@@ -104,7 +104,7 @@
         "label_header": "",
         "label": "問題1-3-2",
         "sourceFiles": [
-          "Q01_03_2.sql"
+          "quizans01032.sql"
         ],
         "setupFile": "pre_quizans01032.sql",
         "isCompileError": false,
@@ -116,7 +116,7 @@
         "label_header": "",
         "label": "問題1-3-3",
         "sourceFiles": [
-          "Q01_03_3.sql"
+          "quizans01033.sql"
         ],
         "setupFile": "pre_quizans01033.sql",
         "isCompileError": false,
@@ -278,7 +278,7 @@
         "label_header": "",
         "label": "問題2-3-1",
         "sourceFiles": [
-          "Q02_03_1.sql"
+          "quizans02031.sql"
         ],
         "setupFile": "pre_quizans02031.sql",
         "isCompileError": false,
@@ -290,7 +290,7 @@
         "label_header": "",
         "label": "問題2-3-2",
         "sourceFiles": [
-          "Q02_03_2.sql"
+          "quizans02032.sql"
         ],
         "setupFile": "pre_quizans02032.sql",
         "isCompileError": false,
@@ -302,7 +302,7 @@
         "label_header": "",
         "label": "問題2-3-3",
         "sourceFiles": [
-          "Q02_03_3.sql"
+          "quizans02033.sql"
         ],
         "setupFile": "pre_quizans02033.sql",
         "isCompileError": false,
@@ -314,7 +314,7 @@
         "label_header": "",
         "label": "問題2-4-1",
         "sourceFiles": [
-          "Q02_04_1.sql"
+          "quizans02041.sql"
         ],
         "setupFile": "pre_quizans02041.sql",
         "isCompileError": false,
@@ -326,7 +326,7 @@
         "label_header": "",
         "label": "問題2-4-2",
         "sourceFiles": [
-          "Q02_04_2.sql"
+          "quizans02042.sql"
         ],
         "setupFile": "pre_quizans02042.sql",
         "isCompileError": false,
@@ -338,7 +338,7 @@
         "label_header": "",
         "label": "問題2-4-3",
         "sourceFiles": [
-          "Q02_04_3.sql"
+          "quizans02043.sql"
         ],
         "setupFile": "pre_quizans02043.sql",
         "isCompileError": false,
@@ -350,7 +350,7 @@
         "label_header": "",
         "label": "問題2-5-1",
         "sourceFiles": [
-          "Q02_05_1.sql"
+          "quizans02051.sql"
         ],
         "setupFile": "pre_quizans02051.sql",
         "isCompileError": false,
@@ -362,7 +362,7 @@
         "label_header": "",
         "label": "問題2-5-3",
         "sourceFiles": [
-          "Q02_05_3.sql"
+          "quizans02053.sql"
         ],
         "setupFile": "pre_quizans02053.sql",
         "isCompileError": false,
@@ -374,7 +374,7 @@
         "label_header": "",
         "label": "問題2-6",
         "sourceFiles": [
-          "Q02_06.sql"
+          "quizans0206.sql"
         ],
         "setupFile": "pre_quizans0206.sql",
         "isCompileError": false,
